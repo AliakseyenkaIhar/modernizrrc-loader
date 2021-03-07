@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "modernizr-loader@1.0.1",
+      "E:\\laragon\\www\\marusia\\wp-content\\themes\\marusia"
+    ]
+  ],
+  "_development": true,
+  "_from": "modernizr-loader@1.0.1",
+  "_id": "modernizr-loader@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-5SpvmhJXi5RKu9bL1lyGPqSoP0k=",
+  "_location": "/modernizr-loader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "modernizr-loader@1.0.1",
+    "name": "modernizr-loader",
+    "escapedName": "modernizr-loader",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/modernizr-loader/-/modernizr-loader-1.0.1.tgz",
+  "_spec": "1.0.1",
+  "_where": "E:\\laragon\\www\\marusia\\wp-content\\themes\\marusia",
+  "author": {
+    "name": "Markus Dobmann",
+    "email": "markus.dobmann@peerigon.com"
+  },
+  "bugs": {
+    "url": "https://github.com/peerigon/modernizr-loader/issues"
+  },
+  "description": "use modernizr with webpack easily",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "eslint": "^3.3.1",
+    "eslint-config-peerigon": "^6.0.0",
+    "eslint-plugin-jsdoc": "^2.3.1",
+    "json-loader": "^0.5.4",
+    "modernizr": "^3.3.1",
+    "temp": "^0.8.3",
+    "webpack": "^1.13.2"
+  },
+  "homepage": "https://github.com/peerigon/modernizr-loader#readme",
+  "keywords": [
+    "modernizr",
+    "webpack",
+    "loader"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "modernizr-loader",
+  "peerDependencies": {
+    "modernizr": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peerigon/modernizr-loader.git"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "version": "1.0.1"
+}
